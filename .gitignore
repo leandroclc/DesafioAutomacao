@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/DesafioAecAutomacao
+/.vs
+/Application/bin/Debug/net7.0
+/Application/obj
+/DesafioAecAutomacao/.vs
+/DesafioAecAutomacao/bin/Debug/net7.0
+/DesafioAecAutomacao/obj
+/Domain/bin/Debug/net7.0
+/Domain/obj
+/Infrastructure/bin/Debug/net7.0
+/Infrastructure/obj
+/Presentation/bin/Debug/net7.0
+/Presentation/obj
